@@ -1,6 +1,10 @@
 # pn-docker-exercise-it-academy
 Simple exercise for Docker learners, IT Learning & Training Academy
 
+Exercise goals 
+
+1. Use basic Docker commands
+
 Precondition
 
 1. Docker is installed on your machine
