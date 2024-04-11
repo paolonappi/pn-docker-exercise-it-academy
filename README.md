@@ -1,10 +1,11 @@
 # pn-docker-exercise-it-academy
 Simple exercise for Docker learners, IT Learning & Training Academy
 
+Precondition
 
-Prerequisite
+  Docker is installed on your machine
 
-Docker is installed on your machine
+Exercise Steps
 
 Step 1: Build Image using Docker command line
 
